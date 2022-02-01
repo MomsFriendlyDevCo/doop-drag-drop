@@ -2,6 +2,7 @@
   "name": "@doop/drag-drop",
   "version": "1.0.0",
   "description": "A drag and drop service for the Doop framework",
+  "main": "libs/drag-drop-factory.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MomsFriendlyDevCo/doop-drag-drop.git"
