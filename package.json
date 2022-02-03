@@ -1,6 +1,6 @@
 {
   "name": "@doop/drag-drop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A drag and drop service for the Doop framework",
   "main": "libs/drag-drop-factory.js",
   "repository": {
@@ -16,6 +16,5 @@
     "url": "https://github.com/MomsFriendlyDevCo/doop-drag-drop/issues"
   },
   "homepage": "https://github.com/MomsFriendlyDevCo/doop-drag-drop#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
