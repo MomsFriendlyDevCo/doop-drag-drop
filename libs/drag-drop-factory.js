@@ -1,7 +1,7 @@
 // TODO: Import $http from packages?
 
 var DragDropFactory = function DragDropFactory() {
-	var $dragDrop = this;
+	var $dragDrop = {};
 
 	$dragDrop.isDragging = false;
 	$dragDrop.data; // Holder for when we are in a drag event
