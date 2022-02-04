@@ -16,5 +16,7 @@
     "url": "https://github.com/MomsFriendlyDevCo/doop-drag-drop/issues"
   },
   "homepage": "https://github.com/MomsFriendlyDevCo/doop-drag-drop#readme",
-  "dependencies": {}
+  "workspaces": [
+    "../*"
+  ]
 }
